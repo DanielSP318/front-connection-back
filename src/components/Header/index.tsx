@@ -14,7 +14,7 @@ const Header = () => {
 
     const handleLogoff = () => {
         navigate('/signin')
-    }
+    };
     return (
         <HeaderContainer>
             <HeaderWrapper>
